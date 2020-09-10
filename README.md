@@ -7,7 +7,7 @@ Upon review of this project, the reader will find an overhaul of the source code
 ## Horiseon-code-refactor Webpage Link
 
 You can find the webpage below:  
-https://matt17merritt.github.io/horiseon-code-refactor/
+https://matt17merritt.github.io/Matthew-horiseon-code-refactor/
 
 ## Screenshots 
 
